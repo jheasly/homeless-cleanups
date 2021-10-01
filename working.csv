@@ -1,16 +1,188 @@
 "work_order","service_code","service_address","latitude","longitude","images","an_action_date","an_status","an_action_by","an_action_notes","rs_activity","rs_type","rs_resource","rs_qty","rs_units","rs_performed_on","an_activity","an_performed_on","an_notes"
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"08/30/19 11:04:16 AM","Assigned","Schneider, Erick","Work Order Created","","","","","","","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"09/03/19 10:06:27 AM","Closed","Stehlar, Doug","Camp abandoned, trash
-cleaned up x2 bags. Work
-Order completed by Doug
-Stehlar.","","","","","","","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"04/02/20  7:39:23 AM","Complete","Hallett, Jackie","Automatically reassigned to
-Stehlar, Doug by the system.","","","","","","","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"","","","","Post Camp - 24 
+348010,"PFI10","SORREL POND",44.0638111163713,-123.0722084806,2,"10/26/20  8:04:48 AM","Assigned","McHarry, Kelsey","Work Order Created","","","","","","","","",""
+348010,"PFI10","SORREL POND",44.0638111163713,-123.0722084806,2,"10/27/20  4:14:48 PM","Closed","McHarry, Kelsey","Automtically Closed by
+System.","","","","","","","","",""
+348010,"PFI10","SORREL POND",44.0638111163713,-123.0722084806,2,"10/27/20  4:14:49 PM","Complete","McHarry, Kelsey","Camp gone trash removed
+Work Order completed by
+Kelsey McHarry.","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"05/01/20 12:05:00 PM","Assigned","ValladolidSalas, Ricardo","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"05/01/20 12:05:00 PM","Assigned","ValladolidSalas, Ricardo","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"05/04/20 12:36:59 PM","In Process","ValladolidSalas, Ricardo","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"05/04/20 12:40:48 PM","Closed","ValladolidSalas, Ricardo","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"06/23/20  9:17:03 AM","Complete","Spangler, Mike","","","","","","","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","Employee 
+Hours","ValladolidSalas, Ricardo","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","Harmon, Kasey","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","Soto, Daniel","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","(303047) 2014 FORD F250 
+XL","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","(504023) 2000 FORD F350","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","(504044) 2009 FORD F450","1.00","Hours","05/01/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","Illegal Camp-Dump 
+ROW Inspection","Employee 
+Hours","ValladolidSalas, Ricardo","0.50","Hours","04/27/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","Equipment 
+Hours","(303047) 2014 FORD F250 
+XL","0.50","Hours","04/27/2020","","",""
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Cleanup","05/01/2020","We clean-up an abandoned 
+campsite, and checked for 
+needles, debris and biologic 
+hazardous material as well. We 
+have five minutes of safety 
+talking, before to do it. No items to 
+storage."
+321918,"SFS30","VAN BUREN ST/W 7TH AVE",44.0512346753638,-123.109441828038,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Inspection","04/27/2020","Inspected and checked for debris, 
+needles, and biologic hazardous 
+material. Scheduling for clean-up."
+343151,"PFI10","WJ- SEC 3 NEAR JEFF",44.0539054373795,-123.101543858935,2,"09/24/20 10:21:33 AM","Assigned","Waksmundski, Joe","Work Order Created","","","","","","","","",""
+343151,"PFI10","WJ- SEC 3 NEAR JEFF",44.0539054373795,-123.101543858935,2,"09/29/20  2:45:03 PM","Closed","Waksmundski, Joe","Automtically Closed by
+System.","","","","","","","","",""
+343151,"PFI10","WJ- SEC 3 NEAR JEFF",44.0539054373795,-123.101543858935,2,"09/29/20  2:45:04 PM","Complete","Waksmundski, Joe","Camp vacated.","","","","","","","","",""
+343151,"PFI10","WJ- SEC 3 NEAR JEFF",44.0539054373795,-123.101543858935,2,"","","","","Post Camp - 24 
 Hour Notice","Employee 
-Hours","Schneider, Erick","0.25","Hours","08/30/2019","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"","","","","","","Evens, Jacob","0.25","Hours","08/30/2019","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"","","","","","Equipment 
-Hours","(504035) 2006 GMC W3500","0.25","Hours","08/30/2019","","",""
-283650,"SWM30","SEE PIN LOCATION",44.051902247761,-123.124606348008,3,"","","","","","","","","","","Post Camp - 24 Hour Notice","08/30/2019","Posted camp in ROW. Green and 
-tan tent."
+Hours","Waksmundski, Joe","0.25","Hours","09/24/2020","","",""
+347337,"PFI10","SB: BELOW MEMORIAL",44.0609540546806,-123.093700563162,2,"10/21/20  8:49:01 AM","Assigned","McHarry, Kelsey","Work Order Created","","","","","","","","",""
+347337,"PFI10","SB: BELOW MEMORIAL",44.0609540546806,-123.093700563162,2,"10/22/20  3:27:13 PM","Closed","Account, Service","Automtically Closed by
+System.","","","","","","","","",""
+347337,"PFI10","SB: BELOW MEMORIAL",44.0609540546806,-123.093700563162,2,"10/22/20  3:27:14 PM","Complete","Account, Service","Camper vacated with no need
+for cleanup. Work Order
+completed by Joe Russell.","","","","","","","","",""
+347337,"PFI10","SB: BELOW MEMORIAL",44.0609540546806,-123.093700563162,2,"","","","","Post Camp - 24 
+Hour Notice","Employee 
+Hours","Russell, Joe","0.00","Hours","10/21/2020","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"09/10/20  5:08:45 PM","Assigned","ValladolidSalas, Ricardo","Assigned to Ricardo
+ValladolidSalas after initial
+save.","","","","","","","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"09/10/20  5:08:53 PM","In Process","ValladolidSalas, Ricardo","Results entry 491492 saved.","","","","","","","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"09/11/20 10:42:21 AM","In Process","ValladolidSalas, Ricardo","Results entry 491492 saved.","","","","","","","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"09/11/20 10:43:16 AM","Closed","ValladolidSalas, Ricardo","inspected and emailed to
+evert.aldridge@lanecountyor.g
+ov","","","","","","","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"10/28/20 12:48:08 PM","Complete","Spangler, Mike","Automatically reassigned to
+ValladolidSalas, Ricardo by
+the system.","","","","","","","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"","","","","Illegal Camp-Dump 
+ROW Inspection","Employee 
+Hours","ValladolidSalas, Ricardo","1.00","Hours","09/10/2020","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"","","","","","Equipment 
+Hours","(301056) 2001 FORD 
+RANGER","0.50","Hours","09/10/2020","","",""
+341746,"SFS30","W 11TH AVE - RANDY PAPE BELTLINE",44.0480754536826,-123.172967818313,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Inspection","09/10/2020","inspected and emailed to 
+evert.aldridge@lanecountyor.gov"
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"05/14/20  4:46:01 PM","Assigned","ValladolidSalas, Ricardo","Assigned to Ricardo
+ValladolidSalas after initial
+save.","","","","","","","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"06/02/20  1:51:39 PM","Closed","ValladolidSalas, Ricardo","We clean-up an abandoned
+burned campsite, and checked
+for needles, debris and
+biologic hazardous material as
+well. We have five minutes of
+safety talking, before to do it.
+No items to storage.","","","","","","","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"06/23/20  8:06:30 AM","Complete","Spangler, Mike","Automatically reassigned to
+ValladolidSalas, Ricardo by
+the system.","","","","","","","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","Illegal Camp-Dump 
+ROW Cleanup","Employee 
+Hours","ValladolidSalas, Ricardo","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","Harmon, Kasey","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","Soto, Daniel","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","Equipment 
+Hours","(303047) 2014 FORD F250 
+XL","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","(504040) 2009 FORD F450 
+SUPER DUTY","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","(504044) 2009 FORD F450","1.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","Illegal Camp-Dump 
+ROW Inspection","Employee 
+Hours","ValladolidSalas, Ricardo","0.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","Equipment 
+Hours","(303047) 2014 FORD F250 
+XL","0.50","Hours","05/14/2020","","",""
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Cleanup","05/14/2020","We clean-up an abandoned 
+campsite, and checked for 
+needles, debris and biologic 
+hazardous material as well. We 
+have five minutes of safety 
+talking, before to do it. No items to 
+storage."
+323855,"SFS30","W 13TH AVE - TYLER ST",44.0455342165575,-123.110962014475,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Inspection","05/14/2020","inspected and checked for debris, 
+needles, and biologic hazardous 
+material. Scheduling for clean-up."
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"12/14/20  9:12:57 AM","Assigned","Wendt, Troy","Assigned to Troy Wendt after
+initial save.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/05/21  3:52:03 PM","Re-Assigned","Wendt, Troy","Re-Assigned to Ricardo
+ValladolidSalas.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/25/21  2:23:30 PM","Re-Assigned","ValladolidSalas, Ricardo","Re-Assigned to Troy Wendt.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/25/21  4:47:20 PM","Re-Assigned","Wendt, Troy","Re-Assigned to Ricardo
+ValladolidSalas.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/28/21  2:09:13 PM","Re-Assigned","ValladolidSalas, Ricardo","Edited from WO Screen","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/29/21  3:16:05 PM","Closed","ValladolidSalas, Ricardo","Automtically Closed by
+System.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"01/29/21  3:16:08 PM","Complete","ValladolidSalas, Ricardo","We clean-up an abandoned
+campsite, and checked and
+collected needles, debris and
+biologic hazardous material as
+well. We have five minutes of
+safety talking, before to do it.
+No items to storage.","","","","","","","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","Employee 
+Hours","ValladolidSalas, Ricardo","1.50","Hours","10/30/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","Habib, Logan","1.50","Hours","10/30/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","(301056) 2001 FORD 
+RANGER","1.50","Hours","10/30/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","(303047) 2014 FORD F250 
+XL","1.50","Hours","10/30/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","(837192) 2020 BIG TEX 
+70SR","1.50","Hours","10/30/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","Illegal Camp-Dump 
+ROW Inspection","Employee 
+Hours","ValladolidSalas, Ricardo","1.00","Hours","10/29/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","Equipment 
+Hours","(301056) 2001 FORD 
+RANGER","1.00","Hours","10/29/2020","","",""
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Cleanup","10/30/2020","We clean-up an abandoned 
+campsite, and checked and 
+collected needles, debris and 
+biologic hazardous material as 
+well. We have five minutes of 
+safety talking, before to do it. No 
+items to storage."
+356212,"SFS30","ADAMS ST - W 2ND ALY",44.0570950253111,-123.107106953122,0,"","","","","","","","","","","Illegal Camp-Dump ROW 
+Inspection","10/29/2020","inspected and checked for debris, 
+needles, and biologic hazardous 
+material.  Scheduling for clean-up."
+344170,"PFI10","5TH ALLEY AND JEFFERSON",44.0537472293144,-123.101945925424,2,"09/30/20 11:35:16 AM","Assigned","Waksmundski, Joe","Work Order Created","","","","","","","","",""
+344170,"PFI10","5TH ALLEY AND JEFFERSON",44.0537472293144,-123.101945925424,2,"10/05/20  2:05:22 PM","Closed","Account, Service","Automtically Closed by
+System.","","","","","","","","",""
+344170,"PFI10","5TH ALLEY AND JEFFERSON",44.0537472293144,-123.101945925424,2,"10/05/20  2:05:23 PM","Complete","Account, Service","WJ: 10/5/20 no cleanup
+required Work Order
+completed by Raymond
+Gulley.","","","","","","","","",""
+344170,"PFI10","5TH ALLEY AND JEFFERSON",44.0537472293144,-123.101945925424,2,"","","","","Post Camp - 24 
+Hour Notice","Employee 
+Hours","Gulley, Raymond","0.00","Hours","10/05/2020","","",""
+326087,"PFI10","WESTMORELAND NORTH OF CREEK #1",44.0424207323625,-123.115626750201,2,"06/06/20  8:53:42 AM","Assigned","Russell, Joe","Work Order Created","","","","","","","","",""
+326087,"PFI10","WESTMORELAND NORTH OF CREEK #1",44.0424207323625,-123.115626750201,2,"06/13/20 11:28:07 AM","Closed","Account, Service","Automtically Closed by
+System.","","","","","","","","",""
+326087,"PFI10","WESTMORELAND NORTH OF CREEK #1",44.0424207323625,-123.115626750201,2,"06/13/20 11:28:08 AM","Complete","Account, Service","Camper is vacated and the
+site has been cleaned up Work
+Order completed by Joe
+Russell.","","","","","","","","",""
+326087,"PFI10","WESTMORELAND NORTH OF CREEK #1",44.0424207323625,-123.115626750201,2,"","","","","Post Camp - 24 
+Hour Notice","Employee 
+Hours","Russell, Joe","0.00","Hours","06/06/2020","","",""
+352060,"PFI10","LONE OAK #5",44.0985827296222,-123.122290385189,2,"11/16/20  2:31:24 PM","Assigned","Waksmundski, Joe","Work Order Created","","","","","","","","",""
+352060,"PFI10","LONE OAK #5",44.0985827296222,-123.122290385189,2,"11/19/20  8:26:04 AM","Closed","Waksmundski, Joe","Automtically Closed by
+System.","","","","","","","","",""
+352060,"PFI10","LONE OAK #5",44.0985827296222,-123.122290385189,2,"11/19/20  8:26:05 AM","Complete","Waksmundski, Joe","Camp vacated and cleaned:
+11.18.20.","","","","","","","","",""
+352060,"PFI10","LONE OAK #5",44.0985827296222,-123.122290385189,2,"","","","","Post Camp - 24 
+Hour Notice","Employee 
+Hours","Waksmundski, Joe","0.25","Hours","11/16/2020","","",""
